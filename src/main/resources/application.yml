@@ -1,0 +1,5 @@
+weather:
+  api:
+    key: a683bbd152a052a0f4eec62dc8a1a7cc
+    url: https://api.openweathermap.org/data/2.5/weather
+    city: London
